@@ -1,5 +1,3 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/skillrepos/copilot-dd?quickstart=1)
-
 # Copilot Deep Dive - lab setup
 
 These instructions will guide you through configuring a GitHub Codespaces environment that you can use to run the course labs. 
@@ -21,7 +19,15 @@ You can also find help there for using Copilot in other supported IDEs, set the 
 
 ![Using Copilot options](./images/cdd31.png?raw=true "Using Copilot options")
 
-## 2. Create your own fork of the repository for these labs
+## 2. From here you **MAY USE EITHER OF THE APPROACHES BELOW:**
+
+**Either** create a codespace without a repository to commit to by clicking on the button below:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/skillrepos/copilot-dd?quickstart=1)
+
+**Or if you want your own fork, follow steps a-b below**
+
+## a. Create your own fork of the repository for these labs
 
 - Ensure that you have created a repository by forking the [skillrepos/copilot-dd](https://github.com/skillrepos/copilot-dd) project as a template into your own GitHub area.
 - You do this by navigating to the repo, clicking the `Fork` button in the upper right portion of the main project page and following the steps to create a copy in **your-github-userid/copilot-dd** .
@@ -29,7 +35,7 @@ You can also find help there for using Copilot in other supported IDEs, set the 
 ![Forking repository](./images/cdd28.png?raw=true "Forking the repository")
 ![Forking repository](./images/cdd29.png?raw=true "Forking the repository")
 
-## 3. Configure your codespace
+## b. Configure your codespace
 
 In your forked repository, start a new codespace.
 
@@ -45,7 +51,7 @@ In your forked repository, start a new codespace.
 
 This will take a while to run.
 
-## 4. Open the labs
+## 3. Open the labs
 
 After the codespace has started, open the labs document by going to the file tree on the left, find the file named **codespace-labs.md**, right-click on it, and open it with the **Preview** option.)
 
