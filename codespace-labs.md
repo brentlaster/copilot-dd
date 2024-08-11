@@ -173,7 +173,7 @@ def is_prime(n):
 
 ![Generated doc for the code](./images/cdd44d.png?raw=true "Generated doc for the code")  
 
-8. While this is useful documentation for the start of the function, we'd like to have more extensive comments in the function body. So,let's get Copilot's help with that. Bring up the chat dialog again with **Cmd+I** and enter the text "verbosely comment this code". After Copilot completes its suggestions, if you're happy with them, you can just click *Accept*. 
+8. While this is useful documentation for the start of the function, we'd like to have more extensive comments in the function body. So,let's get Copilot's help with that. Bring up the chat dialog again with **Cmd+I** and enter the text "verbosely comment this code". After Copilot completes its suggestions, if you're happy with them, you can just click *Accept*. (If you don't see an *Accept* button, you can also select the *View in Chat* option and then insert the suggested changes from the Chat window into the file.)
 
 ![Regenerating doc](./images/cdd110.png?raw=true "Regenerating doc")  
 
